@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 96" role="img" aria-label="People in this mystery">
+ <g fill="#303640" stroke="#d7b58f" stroke-width="2.5">
+  <circle cx="29" cy="32" r="14"/><path d="M8 79q2-25 21-25t21 25Z"/>
+  <circle cx="60" cy="26" r="16"/><path d="M36 81q2-29 24-29t24 29Z" fill="#3c2c32" stroke="#d66a67"/>
+  <circle cx="91" cy="32" r="14"/><path d="M70 79q2-25 21-25t21 25Z"/>
+ </g>
+ <path d="M49 27q11-10 22 0M19 34q10-9 20 0M81 34q10-9 20 0" fill="none" stroke="#f0d4b4" stroke-width="2" opacity=".65"/>
+</svg>

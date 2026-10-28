@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Ask questions">
+ <path d="M15 20q0-8 9-8h40q9 0 9 8v29q0 8-9 8H43L28 71V57h-4q-9 0-9-8Z" fill="#28323b" stroke="#e8c59a" stroke-width="3" stroke-linejoin="round"/>
+ <path d="M42 57h25q9 0 9 8v13L63 68H43q-8 0-8-8v-3" fill="#3b292d" stroke="#d66a67" stroke-width="3" stroke-linejoin="round"/>
+ <circle cx="34" cy="35" r="3" fill="#e8c59a"/><circle cx="48" cy="35" r="3" fill="#e8c59a"/><circle cx="62" cy="35" r="3" fill="#e8c59a"/>
+</svg>

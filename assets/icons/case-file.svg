@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Open a mystery case">
+ <path d="M12 27q0-5 6-5h22l9 9h29q6 0 6 6v34q0 6-6 6H18q-6 0-6-6Z" fill="#303640" stroke="#d5b58c" stroke-width="3" stroke-linejoin="round"/>
+ <path d="M16 38h64l-8 31H22Z" fill="#252b34" stroke="#d66a67" stroke-width="3" stroke-linejoin="round"/>
+ <path d="M35 49h27M35 58h19" stroke="#e6d3b7" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+ <circle cx="69" cy="66" r="9" fill="#a84149" stroke="#efc1a2" stroke-width="2"/>
+</svg>

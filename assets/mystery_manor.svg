@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+  <title id="title">The MYSTERYX manor at night</title>
+  <desc id="desc">A moonlit old manor with glowing windows, mist, trees and a magnifying glass in the foreground.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#131d2b"/><stop offset=".58" stop-color="#222936"/><stop offset="1" stop-color="#4b3334"/></linearGradient>
+    <radialGradient id="moon"><stop stop-color="#f8e8c6"/><stop offset=".72" stop-color="#dfcbaa"/><stop offset="1" stop-color="#c99e83"/></radialGradient>
+    <linearGradient id="house" x2="0" y2="1"><stop stop-color="#3d4045"/><stop offset="1" stop-color="#171b22"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#263032"/><stop offset="1" stop-color="#111820"/></linearGradient>
+    <linearGradient id="glass"><stop stop-color="#93b7bd" stop-opacity=".04"/><stop offset=".55" stop-color="#bfd0c7" stop-opacity=".2"/><stop offset="1" stop-color="#93b7bd" stop-opacity=".02"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
+  </defs>
+  <rect width="1600" height="620" fill="url(#sky)"/>
+  <circle cx="1195" cy="135" r="118" fill="#dec48e" opacity=".11" filter="url(#blur)"/>
+  <circle cx="1195" cy="135" r="58" fill="url(#moon)"/>
+  <g fill="#e8e3d5" opacity=".6">
+    <circle cx="238" cy="87" r="2"/><circle cx="388" cy="142" r="1.6"/><circle cx="576" cy="65" r="1.5"/>
+    <circle cx="899" cy="110" r="1.8"/><circle cx="1024" cy="55" r="1.4"/><circle cx="1400" cy="83" r="1.5"/>
+    <circle cx="1330" cy="206" r="1.4"/><circle cx="702" cy="172" r="1.2"/><circle cx="311" cy="212" r="1.5"/>
+  </g>
+  <ellipse cx="812" cy="433" rx="590" ry="67" fill="#c58a6e" opacity=".15" filter="url(#soft)"/>
+  <path d="M0 400 Q220 327 405 394 T820 390 T1200 371 T1600 395 V620 H0Z" fill="url(#hill)"/>
+  <g fill="#161a20" stroke="#080c12" stroke-width="5" stroke-linejoin="round">
+    <path d="M424 420V271l80-70 78 70v149Z"/><path d="M510 418V235l96-89 98 89v183Z"/>
+    <path d="M630 420V215l181-116 184 116v205Z"/><path d="M936 419V249l91-82 95 82v170Z"/>
+    <path d="M1044 419V279l72-62 74 62v140Z"/>
+  </g>
+  <g fill="url(#house)" stroke="#6c5a50" stroke-opacity=".62" stroke-width="3">
+    <path d="M442 418V279l62-56 61 56v139Z"/><path d="M529 416V244l77-72 78 72v172Z"/>
+    <path d="M655 416V229l156-100 160 100v187Z"/><path d="M955 416V258l72-65 73 65v158Z"/>
+    <path d="M1062 416V287l54-47 56 47v129Z"/>
+  </g>
+  <g fill="#dca66c" opacity=".92">
+    <path d="M472 296h27v44h-27zM514 296h27v44h-27zM559 291h25v42h-25z"/>
+    <path d="M565 250h27v44h-27zM620 250h27v44h-27zM686 237h30v49h-30zM745 237h30v49h-30zM832 237h30v49h-30zM894 237h30v49h-30z"/>
+    <path d="M982 284h25v43h-25zM1030 284h25v43h-25zM1090 310h24v39h-24z"/>
+  </g>
+  <g fill="#a55a4e" opacity=".55">
+    <path d="M649 217 811 112l164 105Z"/><path d="m520 239 85-78 87 78Z"/><path d="m941 251 86-78 89 78Z"/>
+  </g>
+  <path d="M777 416V326q34-43 68 0v90Z" fill="#10141a" stroke="#756053" stroke-width="4"/>
+  <path d="M811 328v87" stroke="#756053" stroke-width="3"/>
+  <path d="M790 418Q810 490 768 620h108q-47-134-37-202Z" fill="#35333a" opacity=".9"/>
+  <g fill="#101820">
+    <path d="M0 620V333h14v-69l38-55 40 55v73h21v-97l45-67 43 67v88h24v-57l33-43 33 43v249Z"/>
+    <path d="M1300 620V329h18v-88l40-62 40 62v60h21v-104l40-55 42 55v111h19v-72l39-53 41 53v384Z"/>
+  </g>
+  <g stroke="#0d131a" stroke-width="7" opacity=".8">
+    <path d="M84 620V370M34 370h101M1387 620V354M1347 390h91M1485 620V397M1452 425h67"/>
+  </g>
+  <path d="M0 467Q228 418 452 475t422-4q218-56 376 8t350-17v158H0Z" fill="#10171e" opacity=".76"/>
+  <ellipse cx="780" cy="494" rx="640" ry="37" fill="#d0a08b" opacity=".14" filter="url(#soft)"/>
+  <g transform="translate(1336 431) rotate(-17)" opacity=".84">
+    <circle r="68" fill="url(#glass)" stroke="#c98d76" stroke-width="11"/>
+    <circle r="54" fill="none" stroke="#ebd4b9" stroke-opacity=".38" stroke-width="2"/>
+    <path d="M48 49 124 126" stroke="#c98d76" stroke-width="19" stroke-linecap="round"/>
+    <path d="M53 54 119 120" stroke="#efd1ac" stroke-opacity=".35" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-28-34q25-22 52-7" fill="none" stroke="#f7e8cf" stroke-opacity=".44" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <rect width="1600" height="620" fill="url(#glass)" opacity=".22"/>
+  <rect x="0.5" y="0.5" width="1599" height="619" rx="18" fill="none" stroke="#d39a7e" stroke-opacity=".28"/>
+</svg>

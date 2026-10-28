@@ -1,0 +1,1 @@
+"""MYSTERYX game services."""

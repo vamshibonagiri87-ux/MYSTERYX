@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Search for clues">
+ <circle cx="40" cy="39" r="25" fill="#28323b" stroke="#e8c59a" stroke-width="4"/>
+ <path d="m58 58 22 22" stroke="#d66a67" stroke-width="10" stroke-linecap="round"/>
+ <path d="M25 39h30M40 24v30" stroke="#e8c59a" stroke-opacity=".7" stroke-width="2"/>
+ <circle cx="40" cy="39" r="7" fill="#d66a67" opacity=".9"/>
+</svg>

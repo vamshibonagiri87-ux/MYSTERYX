@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Connect the clues">
+ <path d="M48 11 57 35 82 39 63 56 68 81 48 68 27 81 33 56 14 39 39 35Z" fill="#3a3030" stroke="#d66a67" stroke-width="3" stroke-linejoin="round"/>
+ <circle cx="48" cy="47" r="11" fill="#e8c59a"/>
+ <path d="M48 39v17M40 47h16" stroke="#242a30" stroke-width="3" stroke-linecap="round"/>
+</svg>
