@@ -1,5 +1,7 @@
 # MYSTERYX
 
+[**▶ Play MYSTERYX online**](https://mysteryx-wmclwcffl2aabmigubmpzr.streamlit.app/)
+
 **The Room That Thinks.** A local, anonymous detective game built with Streamlit, OpenRouter (with optional direct Gemini support), Pydantic, and SQLite. Python owns case validation, saved truth, game rules, and scoring; the AI provider supplies bounded narrative text.
 
 ## Requirements
